@@ -1,0 +1,25 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "window": {
+    "title": "xlsx-to-json",
+    "icon": "link.png",
+    "toolbar": false,
+    "frame": true,
+    "winth": 700,
+    "height": 700,
+    "position": "center",
+    "min-winth": 700,
+    "min-height": 700,
+    "max-winth": 700,
+    "max-height": 700
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
